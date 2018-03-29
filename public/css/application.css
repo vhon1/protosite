@@ -5,3 +5,12 @@ body {background-color:#BEE3DB;}
   border: solid 2px #FFD6BA;
   color: #555B6E;
 }
+
+.navbar {
+  border: solid 2px #FFD6BA;
+  background-color: #FAF9F9
+}
+
+h2 {
+  font-family: 'Cookie', cursive;
+}
