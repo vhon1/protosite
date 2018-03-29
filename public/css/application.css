@@ -14,3 +14,7 @@ body {background-color:#BEE3DB;}
 h2 {
   font-family: 'Cookie', cursive;
 }
+
+.prototypehdn {
+  display:none;
+}
